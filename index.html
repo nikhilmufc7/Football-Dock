@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+  </head>
+  <body>
+<!-- navbar -->
+<nav class="navbar navbar-inverse navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#"><span class="text-on-top"> Live Football Scores </span></a>
+      <button type="button" class="btn btn-danger btn-xs quitbtn pull-right" id = "quit"> Quit</button>
+    </div>
+  </div>
+</nav>
+
+
+<!-- navbar close -->
+
+    <div id="wrap">
+    <div class="container-fluid">
+      <div class="container-search">
+
+
+        <div class="row text-center">
+          <div class="col-md-12">
+
+
+
+    <div class=data1>
+    <span>
+
+      <input type="radio" name="competition" value="1"  checked="checked"/>
+    <label  class="label-for-radio" for ="competition"> Premier League
+    </label>
+  </span>
+
+<span>
+      <input type="radio" name="competition" value="2" />
+      <label class="label-for-radio" > Championship
+    </label>
+  </span>
+<br>
+  <span>
+      <input type="radio" name="competition" value="3" />
+ <label class="label-for-radio" > League one
+    </label>
+  </span>
+
+  <span>
+      <input type="radio" name="competition" value="4" />
+    <label class="label-for-radio" > League two
+    </label>
+  </span>
+  <br>
+<span>
+      <input type="radio" name="competition" value="5" />     <label class="label-for-radio" > National League
+    </label>
+  </span>
+<span>
+      <input type="radio" name="competition" value="7" />     <label class="label-for-radio" > National League South
+    </label>
+  </span>
+<br>
+
+<span>
+      <input type="radio" name="competition" value="21" />
+    <label class="label-for-radio" > FA Cup    </label>
+            </span>
+
+ <span>
+      <input type="radio" name="competition" value="22" />    <label class="label-for-radio" > League Cup
+    </label>
+            </span>
+<br>
+<span>
+      <input type="checkbox" name="competition" value="99" />
+    <label> Red Cards    </label>
+            </span>
+<span>
+      <input type="checkbox" name="competition" value="199" />
+    <label> Half Time    </label>
+            </span>
+<span>
+      <input type="checkbox" name="competition" value="299" checked="checked" />
+    <label > Full Time    </label>
+            </span>
+        <div class="row text-center">
+          <div class="col-md-12">
+            <form action="#">
+
+            <input id="subBut" type="submit" value="Get Scores" class="btn btn-primary btn1" />
+            </form>
+          </div> <!-- col-md-12 -->
+        </div>
+</div>
+
+
+<hr />
+
+  <!-- now set up the area for the
+       returned message  -->
+       <div class="container">
+      <div class="row container-found text-center message">
+        <div class="col-md-12 ">
+        </div> <!-- col-md-12 -->
+      </div> <!-- row -->
+
+      <br /><br />
+    </div> <!-- container-fluid -->
+  </div>  <!-- wrap -->
+</div>
+
+
+  <div class="footer">
+  <p>Crafted with &#9829; by <a href="https://nikhilsingh.org">Nikhil Singh</a></p>
+</div>
+
+
+
+ <script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+
+<!-- normal script imports etc  -->
+<script src="jquery-3.2.1.min.js"></script>
+ <script type="text/javascript" src="renderer.js"></script>
+
+<!-- Insert this line after script imports -->
+<script>if (window.module) module = window.module;</script>
+ </body>
+</html>
