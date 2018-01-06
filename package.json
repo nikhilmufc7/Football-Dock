@@ -1,0 +1,17 @@
+{
+  "name": "footydock",
+  "version": "1.0.0",
+  "description": "footydock menubar electron app",
+  "dependencies": {
+    "menubar": "^5.2.3"
+  },
+  "devDependencies": {
+    "electron-packager": "^5.2.1",
+    "electron-prebuilt": "^0.36.0"
+  },
+  "main": "main.js",
+  "scripts": {
+    "build": "electron-packager . src --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns --overwrite",
+    "start": "electron ."
+  }
+}
