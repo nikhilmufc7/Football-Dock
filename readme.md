@@ -1,3 +1,5 @@
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](#) [![apm](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/nikhilmufc7/Football-Dock/blob/master/LICENSE) [![GitHub issue author](https://img.shields.io/github/issues/detail/u/badges/shields/979.svg)](https://nikhilsingh.org)
+
 # Football Dock : Live football scores app for your menu bar [Initial Beta Release]
 ### For Geeks who love football :soccer:
 ### Available for macOS:apple:, Linux:penguin: and Windows:checkered_flag:.
