@@ -1,4 +1,4 @@
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](#) [![apm](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/nikhilmufc7/Football-Dock/blob/master/LICENSE)
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](#) [![apm](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/nikhilmufc7/Football-Dock/blob/master/LICENSE) ![awesome](https://img.shields.io/badge/awesome-yes-green.svg)
 
 # Football Dock : Live football scores app for your menu bar [Initial Beta Release]
 ### For Geeks who love football :soccer:
