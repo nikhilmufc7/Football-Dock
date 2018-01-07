@@ -1,9 +1,11 @@
-# FootyDock : Live football scores app for your menu bar [Initial Beta Release]
-### For Geeks who love football
-### Available for macOS, Linux and Windows.
+# Football Dock : Live football scores app for your menu bar [Initial Beta Release]
+### For Geeks who love football :soccer:
+### Available for macOS:apple:, Linux:penguin: and Windows:checkered_flag:.
 
 
 A light-weight tray application for Mac OSX , Linux and windows that keeps track of football scores as and when they happen.
+
+Download app from [Release](https://github.com/nikhilmufc7/Football-Dock/releases) for mac version by clicking on footballdock.dmg, FootballDock for Linux and windows version at FootballDock.exe
 
 The app sits in the top menu and gives results and live score updates from Premier League, FA Cup, League cup, Championship and other leagues from English football.
 
