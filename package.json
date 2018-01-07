@@ -11,7 +11,11 @@
   },
   "main": "main.js",
   "scripts": {
-    "build": "electron-packager . src --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns --overwrite",
+    "build-darwin": "electron-packager . src --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns --overwrite",
+    "build-linux": "electron-packager . src --platform=linux  --arch=x64  --version=0.36.0 --icon=IconTemplate.png --overwrite",
+    "build-win32": "electron-packager . src --platform=win32   --arch=x64 --version=0.36.0  --icon=Icon.ico --overwrite",
+    "build"         : "npm run build-darwin && npm run build-linux && npm run build-win32",
     "start": "electron ."
   }
+
 }
