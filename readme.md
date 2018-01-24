@@ -6,7 +6,6 @@
 
 ## [Associated Blog post](https://blog.nikhilsingh.org/posts/FootballDock.html)
 
-![Video of the app](football.gif)
 
 A light-weight tray application for Mac OSX , Linux and windows that keeps track of football scores as and when they happen.
 
