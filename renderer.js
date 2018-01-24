@@ -119,7 +119,6 @@ console.log('here in the javascript');
   $("#subBut").on('click', function(event){
     event.preventDefault();
 
-
 var checkB = "competition";
 var valuesB = getCheckedCheckboxesFor(checkB);
 console.log('valuesB is ',valuesB);
@@ -127,7 +126,7 @@ getFootballData(valuesB);
   });
 });
 $("#quit").on('click', function (event) {
-  
+
   window.close();
 
 
