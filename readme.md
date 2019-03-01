@@ -1,4 +1,4 @@
-[![ Downloads Github Releases](https://img.shields.io/github/downloads/nikhilmufc7/Football-Dock/latest/total.svg)](https://github.com/nikhilmufc7/Football-Dock/releases) [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](#)   ![awesome](https://img.shields.io/badge/awesome-yes-green.svg)
+[![ Downloads Github Releases](https://img.shields.io/github/downloads/nikhilmufc7/Football-Dock/latest/total.svg)](https://github.com/nikhilmufc7/Football-Dock/releases)   ![awesome](https://img.shields.io/badge/awesome-yes-green.svg)
 
 # Football Dock : Live football scores app for your menu bar [Initial Beta Release]
 ### For Geeks who love football :soccer:
