@@ -11,7 +11,7 @@ A light-weight tray application for Mac OSX , Linux and windows that keeps track
 
 Download app from [Release](https://github.com/nikhilmufc7/Football-Dock/releases) for mac version by clicking on footballdock.dmg, FootballDock for Linux and windows version at FootballDock.exe
 
-The app sits in the top menu and gives results and live score updates from Premier League, FA Cup, League cup, Championship and other leagues from English football.
+The app sits in the top menu and gives results and live score updates from Premier League, FA Cup, League cup, UEFA Champions League and other leagues from English football.
 
 Currently uses Football web page UK open data from [here](https://www.footballwebpages.co.uk/vidiprinter.json) and auto refresh is disabled , which will be solved in future releases.
 
