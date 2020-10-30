@@ -4,7 +4,12 @@
 ### For Geeks who love football :soccer:
 ### Available for macOS:apple:, Linux:penguin: and Windows:checkered_flag:.
 
-## [Associated Blog post](https://blog.nikhilsingh.org/posts/FootballDock.html)
+## Tech Stack
+- Electron JS
+- JSON
+- Javascript
+- MacOS
+- Available for MacOS
 
 
 A light-weight tray application for Mac OSX , Linux and windows that keeps track of football scores as and when they happen.
